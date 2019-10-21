@@ -1,1 +1,13 @@
-{"DeviceNo":"909127","DeviceHash":"ce3551a92c8cf91f925232f93a88b3048fecd9ac","updateStatus":false,"updateMessage":"Uygulamay\u0131 kullanabilmek i\u00e7in g\u00fcncelleme yapman\u0131z gerekmektedir.","updateServer":"https:\/\/play.google.com\/store\/apps\/details?id=com.mobilcanlitvizle.app&hl=tr","AdsCount":4,"AdMobPublisherId":"pub-5364152949953979","AdMobBannerAds":true,"AdMobBannerAdUnitId":"ca-app-pub-5364152949953979/9767526304","AdMobInterstitialAds":true,"AdMobInterstitialAdUnitId":"ca-app-pub-5364152949953979/7342627221","MediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/tvlist4.txt?Id=3&DeviceNo=909127&Key=a5888856b7013091b963d567e9f2b0f50f252b4e","ReportServerUrl":""}
+{
+	"AdsCount"							: 5,
+	
+	"AdMobPublisherId"					: "pub-5364152949953979",
+	
+	"AdMobBannerAdUnitId"				: "ca-app-pub-5364152949953979/9767526304",
+	"AdMobBannerAds"					: true,
+	"AdMobInterstitialAdUnitId"			: "ca-app-pub-5364152949953979/7342627221",
+	"AdMobInterstitialAds"				: true,
+	
+	"updateStatus"						: false,
+	"updateMessage"						: "Uygulama için yeni bir güncelleme mevcut.",
+	"updateServer"						: "https:\/\/play.google.com\/store\/apps\/details?id=com.canlitvplus.pro","MediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/tvlist4.txt","ReportServerUrl":""}

@@ -1,2 +1,13 @@
 {
- "MediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/tvlist4.txt","ReportServerUrl":""}
+	"AdsCount"							: 5,
+	
+	"AdMobPublisherId"					: "pub-5364152949953979",
+	
+	"AdMobBannerAdUnitId"				: "ca-app-pub-5364152949953979/9767526304",
+	"AdMobBannerAds"					: true,
+	"AdMobInterstitialAdUnitId"			: "ca-app-pub-5364152949953979/7342627221",
+	"AdMobInterstitialAds"				: true,
+	
+	"updateStatus"						: false,
+	"updateMessage"						: "Uygulama için yeni bir güncelleme mevcut.",
+	"updateServer"						: "https:\/\/play.google.com\/store\/apps\/details?id=com.canlitvplus.pro","MediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/tvlist4.txt","ReportServerUrl":""}

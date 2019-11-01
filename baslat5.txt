@@ -1,4 +1,4 @@
-{"DeviceNo":"909127","DeviceHash":"3260b9f58b84766630ba8b327c264405fe4b888d","updateStatus":false,"updateMessage":"
+{"DeviceNo":"909127","DeviceHash":"3260b9f58b84766630ba8b327c264405fe4b888d","updateStatus":true,"updateMessage":"
 
 
 

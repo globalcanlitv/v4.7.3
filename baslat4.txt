@@ -4,4 +4,4 @@
 
 
 
-Uygulamayı kullanabilmek için güncellemeniz gerekmektedir.","updateServer":"https://github.com/iptvpro93/uptade/raw/master/GlobalCanliTv_v4.7.5.apk","AdsCount":4,"AdMobPublisherId":"pub-5364152949953979","AdMobBannerAds":true,"AdMobBannerAdUnitId":"ca-app-pub-5364152949953979/9767526304","AdMobInterstitialAds":true,"AdMobInterstitialAdUnitId":"ca-app-pub-5364152949953979/7342627221","AdMobInterstitialAggressiveMod":false,"MediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/tvlist4.txt?Id=4&DeviceNo=569982&Key=d25d9e1d6bafda085c27d0366f028d2f63f58232","ReportServerUrl":""}
+Uygulamayı kullanabilmek için güncellemeniz gerekmektedir.","updateServer":"https://iptvpro93.github.io/download.html","AdsCount":4,"AdMobPublisherId":"pub-5364152949953979","AdMobBannerAds":true,"AdMobBannerAdUnitId":"ca-app-pub-5364152949953979/9767526304","AdMobInterstitialAds":true,"AdMobInterstitialAdUnitId":"ca-app-pub-5364152949953979/7342627221","AdMobInterstitialAggressiveMod":false,"MediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/tvlist4.txt?Id=4&DeviceNo=569982&Key=d25d9e1d6bafda085c27d0366f028d2f63f58232","ReportServerUrl":""}

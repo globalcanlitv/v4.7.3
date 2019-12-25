@@ -1,4 +1,4 @@
-{"DeviceNo":"569982","DeviceHash":"fb2ec208d57c5b3dc540085cc7ac3fc447e16f47","updateStatus":true,"updateMessage":"
+{"DeviceNo":"569982","DeviceHash":"fb2ec208d57c5b3dc540085cc7ac3fc447e16f47","updateStatus":false,"updateMessage":"
 
 
 

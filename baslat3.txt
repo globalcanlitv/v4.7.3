@@ -4,4 +4,4 @@
 
 
 
-Uygulamayı kullanabilmek için güncellemeniz gerekmektedir.","updateServer":"https://iptvpro93.github.io/download.html","AdsCount":3,"AdMobPublisherId":"","AdMobBannerAds":true,"AdMobBannerAdUnitId":"","AdMobInterstitialAds":true,"AdMobInterstitialAdUnitId":"","AdMobInterstitialAggressiveMod":false,"MediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/tvlist.txt","ReportServerUrl":""}
+Uygulamayı kullanabilmek için güncellemeniz gerekmektedir.","updateServer":"https://play.google.com/store/apps/details?id=com.globalcanlitv.app","AdsCount":3,"AdMobPublisherId":"","AdMobBannerAds":true,"AdMobBannerAdUnitId":"","AdMobInterstitialAds":true,"AdMobInterstitialAdUnitId":"","AdMobInterstitialAggressiveMod":false,"MediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/tvlist.txt","ReportServerUrl":""}

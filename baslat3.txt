@@ -4,5 +4,5 @@
 
 
 
-Uygulamayı kullanabilmek için güncellemeniz gerekmektedir.
+Uygulamay\u0131 kullanabilmek i\u00e7in g\u00fcncelleme yapman\u0131z gerekmektedir.
 Not:Önce bunu kaldırın tekrar google play'dan indirin.","updateServer":"https://play.google.com/store/apps/details?id=com.globalcanlitv.app","AdsCount":3,"AdMobPublisherId":"","AdMobBannerAds":true,"AdMobBannerAdUnitId":"","AdMobInterstitialAds":true,"AdMobInterstitialAdUnitId":"","AdMobInterstitialAggressiveMod":false,"MediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/tvlist.txt","ReportServerUrl":""}

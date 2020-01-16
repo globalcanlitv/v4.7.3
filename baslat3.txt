@@ -5,4 +5,4 @@
 
 
 Uygulamay\u0131 kullanabilmek i\u00e7in g\u00fcncelleme yapman\u0131z gerekmektedir.
-Not:Önce bunu kaldırın tekrar google play'dan indirin.","updateServer":"https://iptvpro93.github.io/download.html","AdsCount":3,"AdMobPublisherId":"","AdMobBannerAds":true,"AdMobBannerAdUnitId":"","AdMobInterstitialAds":true,"AdMobInterstitialAdUnitId":"","AdMobInterstitialAggressiveMod":false,"MediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/tvlist.txt","ReportServerUrl":""}
+Not:Önce bunu kaldırın tekrar google play'dan indirin.","updateServer":"https://install.appcenter.ms/users/globalcanlitv/apps/Global-Canli-Tv-Pro","AdsCount":3,"AdMobPublisherId":"","AdMobBannerAds":true,"AdMobBannerAdUnitId":"","AdMobInterstitialAds":true,"AdMobInterstitialAdUnitId":"","AdMobInterstitialAggressiveMod":false,"MediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/tvlist.txt","ReportServerUrl":""}

@@ -1,0 +1,9 @@
+{"DeviceNo":"569982","DeviceHash":"fb2ec208d57c5b3dc540085cc7ac3fc447e16f47","updateStatus":false,"updateMessage":"
+
+
+
+
+
+Pro Sürümünü İndirmek İçin GÜNCELLE Butonuna Tıklayın.
+
+Not:Yönlendirme Amaclı Yapılmıştır 3 Saat İçinde Tekrar Burası Açılıcaktır.","updateServer":"https://iptvpro93.github.io/download.html","AdsCount":4,"AdMobPublisherId":"","AdMobBannerAds":false,"AdMobBannerAdUnitId":"","AdMobInterstitialAds":false,"AdMobInterstitialAdUnitId":"","AdMobInterstitialAggressiveMod":false,"MediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/liste-tanitim.txt?Id=4&DeviceNo=569982&Key=d25d9e1d6bafda085c27d0366f028d2f63f58232","ReportServerUrl":""}

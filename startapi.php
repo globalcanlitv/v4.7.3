@@ -4,5 +4,4 @@
 
 
 
-Uygulamay\u0131 kullanabilmek i\u00e7in g\u00fcncelleme yapman\u0131z gerekmektedir.
-Not:Önce bunu kaldırın tekrar google play'dan indirin.","updateServer":"https://iptvpro93.github.io/download.html","AdsCount":4,"AdMobPublisherId":"pub-5805138899212033","AdMobBannerAds":true,"AdMobBannerAdUnitId":"ca-app-pub-3940256099942544/6300978111","AdMobInterstitialAds":true,"AdMobInterstitialAdUnitId":"ca-app-pub-3940256099942544/1033173712","AdMobInterstitialAggressiveMod":false,"MediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/tvlist4.txt?Id=4&DeviceNo=569982&Key=d25d9e1d6bafda085c27d0366f028d2f63f58232","ReportServerUrl":""}
+Uygulamay\u0131 kullanabilmek i\u00e7in g\u00fcncelleme yapman\u0131z gerekmektedir.","updateServer":"https://iptvpro93.github.io/download.html","AdsCount":4,"AdMobPublisherId":"pub-6886838813015191","AdMobBannerAds":true,"AdMobBannerAdUnitId":"ca-app-pub-6886838813015191/7288456481","AdMobInterstitialAds":true,"AdMobInterstitialAdUnitId":"ca-app-pub-6886838813015191/2192042470","AdMobInterstitialAggressiveMod":false,"MediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/tvlist4.txt?Id=4&DeviceNo=569982&Key=d25d9e1d6bafda085c27d0366f028d2f63f58232","ReportServerUrl":""}

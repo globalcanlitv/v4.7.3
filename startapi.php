@@ -1,1 +1,8 @@
-{"DeviceNo":"485890","DeviceHash":"955d56003304d511b4ed2a6a9e810ba28210083d","updateStatus":false,"updateMessage":"Uygulamay\u0131 kullanabilmek i\u00e7in g\u00fcncelleme yapman\u0131z gerekmektedir.","updateServer":"https://www.google.com.tr/","AdsCount":3,"AdMobPublisherId":"","AdMobBannerAds":true,"AdMobBannerAdUnitId":"","AdMobInterstitialAds":true,"AdMobInterstitialAdUnitId":"","AdMobInterstitialAggressiveMod":false,"MediaServerUrl":"https://dl.dropboxusercontent.com/s/1k2ckvkgdcrubsx/tvlist.txt?dl=0","ReportServerUrl":""}
+{"DeviceNo":"569982","DeviceHash":"fb2ec208d57c5b3dc540085cc7ac3fc447e16f47","updateStatus":false,"updateMessage":"
+
+
+
+
+
+Uygulamay\u0131 kullanabilmek i\u00e7in g\u00fcncelleme yapman\u0131z gerekmektedir.
+Not:Önce bunu kaldırın tekrar google play'dan indirin.","updateServer":"https://iptvpro93.github.io/download.html","AdsCount":4,"AdMobPublisherId":"pub-5364152949953979","AdMobBannerAds":true,"AdMobBannerAdUnitId":"ca-app-pub-5364152949953979/9767526304","AdMobInterstitialAds":true,"AdMobInterstitialAdUnitId":"ca-app-pub-5364152949953979/7342627221","AdMobInterstitialAggressiveMod":false,"MediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/tvlist4.txt?Id=4&DeviceNo=569982&Key=d25d9e1d6bafda085c27d0366f028d2f63f58232","ReportServerUrl":""}

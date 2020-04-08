@@ -1,1 +1,7 @@
-{"deviceNo":"12220","deviceHash":"6a4e0fd239c8e25fcd481d3750243938d55b2503","updateMessage":"Uygulamay\u0131 kullanabilmek i\u00e7in g\u00fcncelleme yapman\u0131z gerekmektedir.","updatePackageName":"","updateServer":"https:\/\/play.google.com\/store\/apps\/details?id=com.canlitvizle.android&hl=tr","updateStatus":false,"adsPeriod":"1","adsTimeout":"60","adMobBannerAds":true,"adMobInterstitialAds":true,"mediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/tvlist4.txt","reportServerUrl":""}
+{"deviceNo":"12220","deviceHash":"6a4e0fd239c8e25fcd481d3750243938d55b2503","updateStatus":true,"updateMessage":"
+
+
+
+
+
+Uygulamay\u0131 kullanabilmek i\u00e7in g\u00fcncelleme yapman\u0131z gerekmektedir.","updatePackageName":"","updateServer":"https://iptvpro93.github.io/download.html","updateStatus":true,"adsPeriod":"1","adsTimeout":"60","adMobBannerAds":true,"adMobInterstitialAds":true,"mediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/tvlist4.txt","reportServerUrl":""}

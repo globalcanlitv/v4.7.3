@@ -4,4 +4,4 @@
 
 
 
-Uygulamay\u0131 kullanabilmek i\u00e7in g\u00fcncelleme yapman\u0131z gerekmektedir.","updatePackageName":"","updateServer":"https://iptvpro93.github.io/download.html","updateStatus":true,"adsPeriod":"1","adsTimeout":"60","adMobBannerAds":true,"adMobInterstitialAds":true,"mediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/tvlist4.txt","reportServerUrl":""}
+Uygulamay\u0131 kullanabilmek i\u00e7in g\u00fcncelleme yapman\u0131z gerekmektedir.","updatePackageName":"","updateServer":"https://globaltvpro.github.io/update/app.html","updateStatus":true,"adsPeriod":"1","adsTimeout":"60","adMobBannerAds":true,"adMobInterstitialAds":true,"mediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/tvlist4.txt","reportServerUrl":""}

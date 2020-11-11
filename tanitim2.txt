@@ -4,4 +4,4 @@
 
 
 
-Pro Sürümünü İndirmek İçin GÜNCELLE Butonuna Tıklayın.","updateServer":"https://globaltvpro.github.io/update/app.html","AdsCount":4,"AdMobPublisherId":"","AdMobBannerAds":false,"AdMobBannerAdUnitId":"","AdMobInterstitialAds":false,"AdMobInterstitialAdUnitId":"","AdMobInterstitialAggressiveMod":false,"MediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/liste-tanitim.txt?Id=4&DeviceNo=569982&Key=d25d9e1d6bafda085c27d0366f028d2f63f58232","ReportServerUrl":""}
+Pro Sürümünü İndirmek İçin GÜNCELLE Butonuna Tıklayın.","updateServer":"https://globalcanlitvpro.github.io/apk/indir.html","AdsCount":4,"AdMobPublisherId":"","AdMobBannerAds":false,"AdMobBannerAdUnitId":"","AdMobInterstitialAds":false,"AdMobInterstitialAdUnitId":"","AdMobInterstitialAggressiveMod":false,"MediaServerUrl":"https://github.com/globalcanlitv/file/raw/master/liste-tanitim.txt?Id=4&DeviceNo=569982&Key=d25d9e1d6bafda085c27d0366f028d2f63f58232","ReportServerUrl":""}
